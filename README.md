@@ -73,7 +73,7 @@ Our dependent variable will be the Life Ladder value in the World Happiness Inde
 * Positive Affect
 * Negative Affect
 
-This dataset was taken from Kaggle and can be found by [https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv](clicking here).
+This dataset was taken from Kaggle and can be found by [clicking here](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv).
 
 ## Presentation and Visualizations
 
