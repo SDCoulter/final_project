@@ -1,4 +1,4 @@
-,Country,Code,Year,Water_quality,Air_quality
+,Country,Code,Year,Basic_drinking_water,Air_pollutant_pm2.5
 0,Afghanistan,AFG,2008,43.31,
 1,Afghanistan,AFG,2009,45.78,
 2,Afghanistan,AFG,2010,48.29,49.8
