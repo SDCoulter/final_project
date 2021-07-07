@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, and Shaun Coulter.
+This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, and Shaun Coulter.
 
 ## Communication Protocols
 
@@ -27,53 +27,73 @@ We currently plan to do our analysis with the use of the following tools (more t
 
 ## Our Data Story
 
-We are set out to find how our world is affecting us, we begin by asking the questions:
+We are setting out to look at how the environment around us affects how happy we are, and how strong this effect is. We will do this by looking at the environmental variables of countries, and seeing if we can use them to predict the `Life Ladder` target variable from the **World Happiness Index**.
 
-* Is there any link in where we live to how happy we can be?
-* Do happier people move to the countryside?
-* How does the quality of the air and water affect us, health and development?
-* How is the quality of life of those in areas of high income (air, water, mental health)?
-* What does that look like in the future?
+Is the environment a major source of the quality of life for humanity? Or is it merely a small part of a much larger story?
 
-## Potential Variables
+## Potential Independent Variables
 
-* **Climate**:
-  * Weather
-  * Temperature
-  * Air Quality
-  * Greenhouse Gases
-  * Water Quality
-  * Rainfall
-* **Human Well-Being / Quality of Life**:
-  * Happiness Index
-  * General Health
-  * Life Expectancy
-  * Mental Health
-* **Comparable Variables**:
-  * Population Density - Country Life vs. City Life
-  * Income per Capita vs. Climate vs. General Health (Development Measure)
+* **Weather/Climate**:
+  * Min and Max Temperature
+  * Humidity
+  * Rainfall (Precipitation)
+  * Wind Speed
+  * Hours of Daylight
+  * Quantity of Natural Disasters
+  * Solar Radiation/UV Index
+* **Air Quality**:
+  * Visibility (Smog/Fog)
+  * ***OpenWeatherMap API***
+    * Carbon Monoxide - **CO**
+    * Nitric Oxide - **NO**
+    * Nitrogen Dioxide - **NO<sub>2</sub>**
+    * Ozone - **O<sub>3</sub>**
+    * Sulfur Dioxide - **SO<sub>2</sub>**
+    * Fine Particulate Matter - **PM2.5**
+    * Coarse Particulate Matter - **PM10**
+    * Ammonia - **NH<sub>3</sub>**
+* **Greenhouse Gases**:
+  * Emissions
+  * _more variable data required_
+* **Water Quality**:
+  * Tap Water Quality
+  * Mineral Contaminants
+  * Fresh Water Supply
 
-## Presentation
+## Dependent Variable
 
-We hope to create:
+Our dependent variable will be the Life Ladder value in the World Happiness Index. In this index the value is produced from the measurements of the other categories which include:
 
-* A number of maps, to show variable correlation.
-* A way for a user to interact with the variables and plot their own maps.
-* A number of graphs.
+* Log GDP per Capita
+* Social Support
+* Healthy Life Expectancy at Birth
+* Freedom to Make Life Choices
+* Generosity
+* Perceptions of Corruption
+* Positive Affect
+* Negative Affect
+
+This dataset was taken from Kaggle and can be found by [https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv](clicking here).
+
+## Presentation and Visualizations
+
+Using the JavaScript tools mentioned above along with data wrangling, we will produce visualizations detailing the variables we found and plot them on maps. This will give us a way to look for correlation amongst the independent variables, while also allowing a user to find interesting information of their own. We will also include the target variables to see if we can visually show our overarching data story. These maps, along with any required graphs will be contained on an interactive web page for all to use.
 
 ## Database
 
-Our database will be created with pgAdmin and Postgres. We will include schema information, as well as queries that produce the data we analyse.
+Our data will be put together with the use of Python and Pandas, and a database will be created with pgAdmin and Postgres. We will include schema information, as well as queries that produce the data we analyse.
 
 ## Machine Learning
 
-We will develop on our question of ***what will that look like in the future***? As well as possibly using available data from G7 countries (a lot of easy to access data) to try and predict future trends in countries where data is lacking.
+Our goal in the Machine Learning aspect of this project is to **use environmental variables about countries from the last 15 years to train a model that predicts their corresponding life ladder values**. We will gather the above environmental variables for each country, for each year, and pass each instance of year and country into the model to train it. This model will then predict the life ladder values for 2020 and 2021 based on this training.
 
 We will use the module template, and specifically topics discussed in Module 17, 18, and 19, to model the data we find. We will be looking at both prediction/regression modelling as well as classification.
 
 ## Data Sources
 
-This is an unordered list, and at this stage does not necessarily mean we will be using the data.
+***More to be added later when data wrangling is completed.***
+
+This is an unordered and unfinished list, and at this stage does not necessarily mean we will be using the data.
 
 * https://www.iqair.com/air-pollution-data-api
 * https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
@@ -83,5 +103,6 @@ This is an unordered list, and at this stage does not necessarily mean we will b
 
 ## Project Commentary
 
-* 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au
+* 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au, and Suleiman Barekzai.
 * 21-07-04 - Branches created for each member. Data discussion and project outline created.
+* 21-07-07 - After class discussion gave us a more concrete goal, we will data collect and reconvene after Thursday's class.
