@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, and Shaun Coulter.
+This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, Shaun Coulter and Najeeb Amlani.
 
 ## Communication Protocols
 
