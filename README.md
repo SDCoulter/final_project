@@ -106,3 +106,5 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 * 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au, and Suleiman Barekzai.
 * 21-07-04 - Branches created for each member. Data discussion and project outline created.
 * 21-07-07 - After class discussion gave us a more concrete goal, we will data collect and reconvene after Thursday's class.
+
+Link to Google Doc (https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit) 
