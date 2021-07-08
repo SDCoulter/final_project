@@ -1,5 +1,9 @@
 # Adding Resources folder (until data is finalized).
 resources/
+other/
+
+# Add API key.
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
