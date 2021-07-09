@@ -1,6 +1,7 @@
 # Adding Resources folder (until data is finalized).
 resources/
 other/
+be_text/
 
 # Add API key.
 config.py
