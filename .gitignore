@@ -7,6 +7,9 @@ be_csv/
 # Add API key.
 config.py
 
+# Add machine learning nb for now.
+temperature_machine_learning.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
