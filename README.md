@@ -2,6 +2,16 @@
 
 ## Work in this Branch
 
+* `12_clean_water_ml_kmeans.ipynb` - run KMeans clustering analysis on the Clean Water values, similar to what we did with the happiness and temperature values. We produce the following maps:
+
+***KMeans Clustering with 3 Clusters for Clean Water Values:***
+
+![KMeans 3 Clusters Clean Water Plot](maps/05_k3_clean_water_cluster_map.png)
+
+***KMeans Clustering with 4 Clusters for Clean Water Values:***
+
+![KMeans 4 Clusters Clean Water Plot](maps/06_k4_clean_water_cluster_map.png)
+
 * `11_add_clean_water.ipynb` - read in the cleaned data from Suleiman's branch and add it as a column to the reordered dataset - `M_country_happ_temp_water.csv`.
 * `10_alternate_table_layout.ipynb` - reorder the main dataset to create a dataset with two indexes, `Country` and `Year`, and then have two columns, `Life Ladder` and `Temperature`.
 * `09_happiness_ml_kmeans.ipynb` - perform **KMeans** cluster analysis on the country's happiness values (Life Ladder), and plot the resulting maps.
