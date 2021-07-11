@@ -736,17 +736,17 @@ Ecuador,2017,64060.0
 Ecuador,2018,65680.0
 Ecuador,2019,
 Ecuador,2020,
-"Egypt, Arab Rep.",2010,276450.0
-"Egypt, Arab Rep.",2011,283190.0
-"Egypt, Arab Rep.",2012,293980.0
-"Egypt, Arab Rep.",2013,291230.0
-"Egypt, Arab Rep.",2014,297280.0
-"Egypt, Arab Rep.",2015,306350.0
-"Egypt, Arab Rep.",2016,315780.0
-"Egypt, Arab Rep.",2017,320370.0
-"Egypt, Arab Rep.",2018,329220.0
-"Egypt, Arab Rep.",2019,
-"Egypt, Arab Rep.",2020,
+Egypt,2010,276450.0
+Egypt,2011,283190.0
+Egypt,2012,293980.0
+Egypt,2013,291230.0
+Egypt,2014,297280.0
+Egypt,2015,306350.0
+Egypt,2016,315780.0
+Egypt,2017,320370.0
+Egypt,2018,329220.0
+Egypt,2019,
+Egypt,2020,
 El Salvador,2010,12620.0
 El Salvador,2011,12550.0
 El Salvador,2012,12700.0
@@ -1374,17 +1374,6 @@ Kiribati,2017,100.0
 Kiribati,2018,110.0
 Kiribati,2019,
 Kiribati,2020,
-"Korea, Dem. People's Rep.",2010,73940.0
-"Korea, Dem. People's Rep.",2011,59670.0
-"Korea, Dem. People's Rep.",2012,61410.0
-"Korea, Dem. People's Rep.",2013,50830.0
-"Korea, Dem. People's Rep.",2014,54550.0
-"Korea, Dem. People's Rep.",2015,48430.0
-"Korea, Dem. People's Rep.",2016,53460.0
-"Korea, Dem. People's Rep.",2017,46000.0
-"Korea, Dem. People's Rep.",2018,41910.0
-"Korea, Dem. People's Rep.",2019,
-"Korea, Dem. People's Rep.",2020,
 "Korea, Rep.",2010,646420.0
 "Korea, Rep.",2011,670790.0
 "Korea, Rep.",2012,675290.0
@@ -1627,6 +1616,17 @@ Luxembourg,2020,
 "Macao SAR, China",2018,
 "Macao SAR, China",2019,
 "Macao SAR, China",2020,
+Macedonia,2010,11750.0
+Macedonia,2011,12690.0
+Macedonia,2012,12120.0
+Macedonia,2013,11240.0
+Macedonia,2014,10820.0
+Macedonia,2015,10560.0
+Macedonia,2016,10530.0
+Macedonia,2017,11010.0
+Macedonia,2018,10510.0
+Macedonia,2019,
+Macedonia,2020,
 Madagascar,2010,29190.0
 Madagascar,2011,29120.0
 Madagascar,2012,30480.0
@@ -1979,17 +1979,6 @@ North America,2017,6552170.0
 North America,2018,6748550.0
 North America,2019,
 North America,2020,
-North Macedonia,2010,11750.0
-North Macedonia,2011,12690.0
-North Macedonia,2012,12120.0
-North Macedonia,2013,11240.0
-North Macedonia,2014,10820.0
-North Macedonia,2015,10560.0
-North Macedonia,2016,10530.0
-North Macedonia,2017,11010.0
-North Macedonia,2018,10510.0
-North Macedonia,2019,
-North Macedonia,2020,
 Northern Mariana Islands,2010,
 Northern Mariana Islands,2011,
 Northern Mariana Islands,2012,
@@ -2221,17 +2210,17 @@ Romania,2017,108560.0
 Romania,2018,109010.0
 Romania,2019,
 Romania,2020,
-Russian Federation,2010,2454000.0
-Russian Federation,2011,2546200.0
-Russian Federation,2012,2566170.0
-Russian Federation,2013,2529020.0
-Russian Federation,2014,2521740.0
-Russian Federation,2015,2475690.0
-Russian Federation,2016,2470100.0
-Russian Federation,2017,2494150.0
-Russian Federation,2018,2543400.0
-Russian Federation,2019,
-Russian Federation,2020,
+Russia,2010,2454000.0
+Russia,2011,2546200.0
+Russia,2012,2566170.0
+Russia,2013,2529020.0
+Russia,2014,2521740.0
+Russia,2015,2475690.0
+Russia,2016,2470100.0
+Russia,2017,2494150.0
+Russia,2018,2543400.0
+Russia,2019,
+Russia,2020,
 Rwanda,2010,5110.0
 Rwanda,2011,5040.0
 Rwanda,2012,5200.0
@@ -2441,6 +2430,17 @@ South Asia (IDA & IBRD),2017,4024390.0
 South Asia (IDA & IBRD),2018,4195430.0
 South Asia (IDA & IBRD),2019,
 South Asia (IDA & IBRD),2020,
+South Korea,2010,73940.0
+South Korea,2011,59670.0
+South Korea,2012,61410.0
+South Korea,2013,50830.0
+South Korea,2014,54550.0
+South Korea,2015,48430.0
+South Korea,2016,53460.0
+South Korea,2017,46000.0
+South Korea,2018,41910.0
+South Korea,2019,
+South Korea,2020,
 South Sudan,2010,68610.0
 South Sudan,2011,65180.0
 South Sudan,2012,66940.0
@@ -2837,17 +2837,17 @@ Vanuatu,2017,850.0
 Vanuatu,2018,870.0
 Vanuatu,2019,
 Vanuatu,2020,
-"Venezuela, RB",2010,260460.0
-"Venezuela, RB",2011,259660.0
-"Venezuela, RB",2012,279300.0
-"Venezuela, RB",2013,284140.0
-"Venezuela, RB",2014,285460.0
-"Venezuela, RB",2015,270980.0
-"Venezuela, RB",2016,257600.0
-"Venezuela, RB",2017,243570.0
-"Venezuela, RB",2018,233920.0
-"Venezuela, RB",2019,
-"Venezuela, RB",2020,
+Venezuela,2010,260460.0
+Venezuela,2011,259660.0
+Venezuela,2012,279300.0
+Venezuela,2013,284140.0
+Venezuela,2014,285460.0
+Venezuela,2015,270980.0
+Venezuela,2016,257600.0
+Venezuela,2017,243570.0
+Venezuela,2018,233920.0
+Venezuela,2019,
+Venezuela,2020,
 Vietnam,2010,258430.0
 Vietnam,2011,257880.0
 Vietnam,2012,258290.0
@@ -2892,17 +2892,17 @@ World,2017,45117640.0
 World,2018,45873850.0
 World,2019,
 World,2020,
-"Yemen, Rep.",2010,35610.0
-"Yemen, Rep.",2011,32390.0
-"Yemen, Rep.",2012,31470.0
-"Yemen, Rep.",2013,38350.0
-"Yemen, Rep.",2014,38810.0
-"Yemen, Rep.",2015,26050.0
-"Yemen, Rep.",2016,22740.0
-"Yemen, Rep.",2017,21970.0
-"Yemen, Rep.",2018,21760.0
-"Yemen, Rep.",2019,
-"Yemen, Rep.",2020,
+Yemen,2010,35610.0
+Yemen,2011,32390.0
+Yemen,2012,31470.0
+Yemen,2013,38350.0
+Yemen,2014,38810.0
+Yemen,2015,26050.0
+Yemen,2016,22740.0
+Yemen,2017,21970.0
+Yemen,2018,21760.0
+Yemen,2019,
+Yemen,2020,
 Zambia,2010,32210.0
 Zambia,2011,32210.0
 Zambia,2012,36130.0
