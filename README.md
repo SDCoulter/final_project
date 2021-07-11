@@ -106,6 +106,7 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 * https://www.kaggle.com/adityakadiwal/water-potability
 * https://www.kaggle.com/sevgisarac/temperature-change
 * https://www.kaggle.com/natashalondon/climate-change-where-we-are-and-what-we-can-do?select=CO2+emissions+by+energy+source+World+1990-2017+-+Africa.csv
+* https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
 
 ## Project Commentary
 
