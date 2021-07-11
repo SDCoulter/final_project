@@ -1,19 +1,18 @@
-# Final Project - Climate Change and Effects on Human Well-Being (Quality of Life)
+# Final Project - Environmental Factors and Effects on Human Well-Being and Happiness
 
 ## Overview
 
-This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, and Shaun Coulter.
+This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, Najeeb Amlani, and Shaun Coulter.
 
-## Communication Protocol
+## Communication Protocols
 
-We are using the following tools as our communication means, and we set schedules for the next meetings during our discussion:
+We communicated as a team with the following methods:
 
-* Google Meet
-  - As our main tool for sharing our findings and discussion of topics
-* Slack
-  - As our secondary means of minor communication
-
-## Technologies
+* Google Doc Organization
+  * Google Drive File Share
+* Dedicated Slack Channel Discussions
+* Google Meet Meetings
+  * Outside of Class Discussions
 
 We currently plan to do our analysis with the use of the following tools (more tools will be added as needed):
 
@@ -34,6 +33,13 @@ We currently plan to do our analysis with the use of the following tools (more t
 * Tableau
 * Web Development Tools (HTML/CSS)
 
+## Folder Structure Detailed
+
+* **Dataset** - our current main dataset, cleanest version.
+* **Notebooks/Machine Learning** - beginning look at machine learning models based on our dataset.
+* **Resources** - datasets that we transformed and cleaned for main dataset.
+* **Visualizations** - maps made with the machine learning models.
+
 ## Our Data Story
 
 We are setting out to look at how the environment around us affects how happy we are, and how strong this effect is. We will do this by looking at the environmental variables of countries, and seeing if we can use them to predict the `Life Ladder` target variable from the **World Happiness Index**.
@@ -52,19 +58,10 @@ Is the environment a major source of the quality of life for humanity? Or is it 
   * Solar Radiation/UV Index
 * **Air Quality**:
   * Visibility (Smog/Fog)
-  * ***OpenWeatherMap API***
-    * Carbon Monoxide - **CO**
-    * Nitric Oxide - **NO**
-    * Nitrogen Dioxide - **NO<sub>2</sub>**
-    * Ozone - **O<sub>3</sub>**
-    * Sulfur Dioxide - **SO<sub>2</sub>**
-    * Fine Particulate Matter - **PM2.5**
-    * Coarse Particulate Matter - **PM10**
-    * Ammonia - **NH<sub>3</sub>**
 * **Greenhouse Gases**:
   * Emissions
-  * _more variable data required_
 * **Water Quality**:
+  * Access to Clean Water
   * Tap Water Quality
   * Mineral Contaminants
   * Fresh Water Supply
@@ -90,7 +87,7 @@ Using the JavaScript tools mentioned above along with data wrangling, we will pr
 
 ## Database
 
-Our data will be put together with the use of Python and Pandas, and a database will be created with pgAdmin and Postgres. We will include schema information, as well as queries that produce the data we analyse.
+For the setup of the first segment we have combined our dataset, environmental data about countries, into one clean CSV file. Once we finalize data collection we will discuss further data handling methods.
 
 ## Machine Learning
 
@@ -112,8 +109,9 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 
 ## Project Commentary
 
-* 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au, and Suleiman Barekzai.
+* 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au, Najeeb Amlani, and Suleiman Barekzai.
 * 21-07-04 - Branches created for each member. Data discussion and project outline created.
 * 21-07-07 - After class discussion gave us a more concrete goal, we will data collect and reconvene after Thursday's class.
+* 21-07-11 - Discussion before Segment 1 submission, organized file structure for future merges.
 
-Link to Google Doc (https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit) 
+Link to [Google Doc](https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit).
