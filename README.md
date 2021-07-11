@@ -4,7 +4,16 @@
 
 This is the repository for Module 20, the ***Final Project***, of the University of Toronto Data Analysis Bootcamp Course. Work created and organized by Akinsola Salami, Jeffrey Au, Suleiman Barekzai, and Shaun Coulter.
 
-## Communication Protocols
+## Communication Protocol
+
+We are using the following tools as our communication means, and we set schedules for the next meetings during our discussion:
+
+* Google Meet
+  - As our main tool for sharing our findings and discussion of topics
+* Slack
+  - As our secondary means of minor communication
+
+## Technologies
 
 We currently plan to do our analysis with the use of the following tools (more tools will be added as needed):
 
