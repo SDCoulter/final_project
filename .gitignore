@@ -6,6 +6,7 @@ be_csv/
 
 # Add API key.
 config.py
+config.js
 
 # Web maps.
 maps/web/
