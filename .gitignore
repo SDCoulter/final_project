@@ -12,7 +12,8 @@ config.js
 maps/web/
 
 # Web app.
-webapp/
+# webapp/
+group_logic.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
