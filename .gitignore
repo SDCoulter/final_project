@@ -3,6 +3,7 @@ resources/
 other/
 be_text/
 be_csv/
+database_sql/
 
 # Add API key.
 config.py
