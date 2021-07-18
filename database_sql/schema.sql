@@ -11,6 +11,21 @@ CREATE TABLE main_ds (
 	co2_emissions FLOAT
 );
 
+-- MAIN DATASET WITH PRIMARY KEY --
+CREATE TABLE main_ds_pk (
+	id INT NOT NULL,
+	country VARCHAR NOT NULL,
+	year INT NOT NULL,
+	life_ladder FLOAT,
+	temperature FLOAT,
+	clean_water FLOAT,
+	greenhouse FLOAT,
+	population FLOAT,
+	pm25 FLOAT,
+	co2_emissions FLOAT,
+	PRIMARY KEY (id)
+);
+
 -- TABLES FOR COUNTRY-YEAR INDEXES --
 CREATE TABLE cy_clean_water (
   country VARCHAR NOT NULL,
