@@ -1,3 +1,13 @@
+-- Country Year List
+SELECT row_number() OVER () AS id,
+		ds.country,
+		ds.year
+INTO country_year
+FROM main_ds AS ds
+-- Add primary key.
+ALTER TABLE country_year ADD PRIMARY KEY (id);
+
+
 -- Country/Year Populations and Clean Water Access --
 SELECT cyp.country, cyp.year, cyp.population, cycw.clean_water
 INTO cy_pop_cw
