@@ -12,13 +12,14 @@
 * `25_ml_03.ipynb` - continuing LinearRegression analysis, this time scaling the dataset.
 * `26_ml_compare_models_scaled.ipynb` - comparing the scaled predictions to other models.
 * `27_ml_kmeans_2010.ipynb` - running KMeans clustering analysis on full dataset (all columns) for year 2010, produces the following maps.
-
-![KMeans 2010 3 Clusters](maps/27_k3_2010.png)![KMeans 2010 4 Clusters](maps/27_k4_2010.png)![KMeans 2010 8 Clusters](maps/27_k8_2010.png)
+  * [KMeans 2010 3 Clusters Map](maps/27_k3_2010.png)
+  * [KMeans 2010 4 Clusters Map](maps/27_k4_2010.png)
+  * [KMeans 2010 8 Clusters Map](maps/27_k8_2010.png)
 
 #### SQL and Data
 
-* `23_connect_to_sql_v1.ipynb` - first look at connecting to the PostgreSQL database and reading the data from a table.
-* `24_connect_to_sql_v2.ipynb` - more refined version of reading data from table - use this one as it is much shorter.
+* `23_connect_to_sql_v1.ipynb` - first look at connecting to the PostgreSQL database and reading the data from a table - uses `with engine.connect()`.
+* `24_connect_to_sql_v2.ipynb` - more refined version of reading data from table - uses SQLAlchemy, `automap_base`, and `Session` queries.
 * `ds19_happ_temp_cw_gg_pop_pm_co2.csv` - most up to date dataset.
 
 ### Folders
