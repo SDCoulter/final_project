@@ -1,10 +1,8 @@
-# Final Project - Climate Change and Effects on Human Well-Being (Quality of Life)
+# Final Project - Environmental Factors and Human Happiness
 
-## Work in this Branch
+## Files
 
-### Files
-
-#### Machine Learning
+### Machine Learning
 
 * `20_ml_01_rs0.ipynb` - LinearRegression model trained on the full dataset to predict the `Life Ladder` target values.
 * `21_ml_02_rs0.ipynb` - LinearRegression model trained on the full dataset _but we dropped the Country and Year columns this time_, to predict the `Life Ladder` target values.
@@ -16,13 +14,13 @@
   * [KMeans 2010 4 Clusters Map](maps/27_k4_2010.png)
   * [KMeans 2010 8 Clusters Map](maps/27_k8_2010.png)
 
-#### SQL and Data
+### SQL and Data
 
 * `23_connect_to_sql_v1.ipynb` - first look at connecting to the PostgreSQL database and reading the data from a table - uses `with engine.connect()`.
 * `24_connect_to_sql_v2.ipynb` - more refined version of reading data from table - uses SQLAlchemy, `automap_base`, and `Session` queries.
 * `ds19_happ_temp_cw_gg_pop_pm_co2.csv` - most up to date dataset.
 
-### Folders
+## Folders
 
 * `database_sql/` - files, schema, queries, and ERD information here for PostgreSQL database.
 * `maps/` - images of maps made during machine learning analysis.
