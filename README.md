@@ -13,6 +13,10 @@
   * [KMeans 2010 3 Clusters Map](maps/27_k3_2010.png)
   * [KMeans 2010 4 Clusters Map](maps/27_k4_2010.png)
   * [KMeans 2010 8 Clusters Map](maps/27_k8_2010.png)
+* `28_ml_h_clustering.ipynb` - perform similar analysis, but this time using hierarchical clustering.
+* `29_ml_h_clustering_pca.ipynb` - perform hierarchical clustering analysis, but also run Principal Component Analysis, to reduce the number of factors to two.
+* `30_ml_h_clustering_pca_drop.ipynb` - perform hierarchical clustering analysis, Principal Component Analysis, and also drop the outliers from the previous analyses: the United States, India, and China - also produce `df.plot` graphs for GitHub viewing.
+
 
 ### SQL and Data
 
