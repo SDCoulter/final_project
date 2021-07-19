@@ -2,42 +2,30 @@
 
 ## Work in this Branch
 
-* `12_clean_water_ml_kmeans.ipynb` - run KMeans clustering analysis on the Clean Water values, similar to what we did with the happiness and temperature values. We produce the following maps:
+### Files
 
-***KMeans Clustering with 3 Clusters for Clean Water Values:***
+#### Machine Learning
 
-![KMeans 3 Clusters Clean Water Plot](maps/05_k3_clean_water_cluster_map.png)
+* `20_ml_01_rs0.ipynb` - LinearRegression model trained on the full dataset to predict the `Life Ladder` target values.
+* `21_ml_02_rs0.ipynb` - LinearRegression model trained on the full dataset _but we dropped the Country and Year columns this time_, to predict the `Life Ladder` target values.
+* `22_ml_compare_models_rs0.ipynb` - comparing these first two LinearRegression models against each other to see if the country/year variables impact the predictions.
+* `25_ml_03.ipynb` - continuing LinearRegression analysis, this time scaling the dataset.
+* `26_ml_compare_models_scaled.ipynb` - comparing the scaled predictions to other models.
+* `27_ml_kmeans_2010.ipynb` - running KMeans clustering analysis on full dataset (all columns) for year 2010, produces the following maps.
 
-***KMeans Clustering with 4 Clusters for Clean Water Values:***
+![KMeans 2010 3 Clusters](maps/27_k3_2010.png)![KMeans 2010 4 Clusters](maps/27_k4_2010.png)![KMeans 2010 8 Clusters](maps/27_k8_2010.png)
 
-![KMeans 4 Clusters Clean Water Plot](maps/06_k4_clean_water_cluster_map.png)
+#### SQL and Data
 
-* `11_add_clean_water.ipynb` - read in the cleaned data from Suleiman's branch and add it as a column to the reordered dataset - `M_country_happ_temp_water.csv`.
-* `10_alternate_table_layout.ipynb` - reorder the main dataset to create a dataset with two indexes, `Country` and `Year`, and then have two columns, `Life Ladder` and `Temperature`.
-* `09_happiness_ml_kmeans.ipynb` - perform **KMeans** cluster analysis on the country's happiness values (Life Ladder), and plot the resulting maps.
+* `23_connect_to_sql_v1.ipynb` - first look at connecting to the PostgreSQL database and reading the data from a table.
+* `24_connect_to_sql_v2.ipynb` - more refined version of reading data from table - use this one as it is much shorter.
+* `ds19_happ_temp_cw_gg_pop_pm_co2.csv` - most up to date dataset.
 
-***KMeans Clustering with 3 Clusters for Happiness Values:***
+### Folders
 
-![KMeans 3 Clusters Happiness Plot](maps/03_k3_happiness_cluster_map.png)
-
-***KMeans Clustering with 4 Clusters for Happiness Values:***
-
-![KMeans 4 Clusters Happiness Plot](maps/04_k4_happiness_cluster_map.png)
-
-* `08_temperature_ml_kmeans_plotting.ipynb` - plot the cluster analysis on a map using `gmaps`, create interactive webpages and save the images (see below).
-
-***KMeans Clustering with 3 Clusters for Temperature Values:***
-
-![KMeans 3 Clusters Temperature Plot](maps/01_k3_cluster_map.png)
-
-***KMeans Clustering with 4 Clusters for Temperature Values:***
-
-![KMeans 4 Clusters Temperature Plot](maps/02_k4_cluster_map.png)
-
-* `07_temperature_ml_kmeans.ipynb` - do some more data cleaning, and perform **KMeans cluster analysis** on the country's temperatures, using 3 and 4 clusters.
-* `06_make_full_temp_ds.ipynb` - using the scraped temperature data and the analysed happiness dataset, combine altogether to make one main dataset: `MAIN_countries_happiness_temps_full.csv`
-* `05_be_temp_analysis.ipynb` - parse the scraped text files to generate CSV files of every countries temperature history - will be very useful for visualizations.
-* `04_berkeley_temperature_data_pull.ipynb` - scrape the Berkeley Earth webpage to pull temperature data for every country in the finalized countries list.
-* `03_happiness_report_analysis.ipynb` - notebook reads in the Happiness Report and performs analysis to reduce country list down to just those with data points from 2010-2019, as well as 2021, and exports the table to a CSV file.
-* `02_air_quality_api_pull.ipynb` - notebook was intended to be used to pull historical air quality data from OpenWeatherMap API, however this API only goes back to 2020, not many years as required.
-* `01_qol_ratings_scrape.ipynb` - notebook scrapes QoL table at Numbeo.com - we aren't using this resource though.
+* `database_sql/` - files, schema, queries, and ERD information here for PostgreSQL database.
+* `maps/` - images of maps made during machine learning analysis.
+* `ml_results/` - predictions from LinearRegression models.
+* `notebooks/` - previous notebooks of analysis and data cleaning collected here.
+* `output/` - file outputs from data cleaning.
+* `webapp/` - a look at creating a JS webapp for data interactivity by users.
