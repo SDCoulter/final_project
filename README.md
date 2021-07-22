@@ -109,3 +109,5 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 
 Link to Google Doc (https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit) 
 Link to Emissions Graph from Tableau Public (https://public.tableau.com/app/profile/suleiman.barekzai/viz/Top5CountrieswithHighestEmissions/HighestEmissionsbyCountry?publish=yes)
+
+![image](https://user-images.githubusercontent.com/78752254/126722646-767d5db5-caea-448c-9d92-c9f499c8a853.png)
