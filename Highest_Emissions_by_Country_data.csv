@@ -1,0 +1,56 @@
+﻿Country,Temperature,Year,Country,Avg. Greenhouse Gas Emissions
+United States,19,2016,United States,5907270
+United States,18.8,2015,United States,6003650
+United States,18.6,2018,United States,6023620
+United States,18.6,2013,United States,6108670
+United States,18.4,2017,United States,5842800
+United States,18.3,2012,United States,5968740
+United States,18.1,2019,United States,
+United States,17.9,2010,United States,6442580
+United States,17.8,2011,United States,6214430
+United States,17.5,2014,United States,6129040
+United States,,2021,United States,
+Russia,-2.76,2012,Russia,2566170
+Russia,-3.478,2016,Russia,2470100
+Russia,-3.493,2015,Russia,2475690
+Russia,-3.517,2011,Russia,2546200
+Russia,-3.726,2019,Russia,
+Russia,-3.736,2018,Russia,2543400
+Russia,-3.932,2013,Russia,2529020
+Russia,-3.993,2010,Russia,2454000
+Russia,-4.31,2017,Russia,2494150
+Russia,-4.58,2014,Russia,2521740
+Russia,,2021,Russia,
+Japan,13.856,2010,Japan,1228240
+Japan,13.493,2014,Japan,1300990
+Japan,13.435,2011,Japan,1284770
+Japan,13.417,2013,Japan,1338630
+Japan,13.188,2018,Japan,1186770
+Japan,12.949,2019,Japan,
+Japan,12.946,2016,Japan,1257730
+Japan,12.594,2015,Japan,1265070
+Japan,12.301,2012,Japan,1327040
+Japan,12.123,2017,Japan,1235370
+Japan,,2021,Japan,
+India,25.762,2019,India,
+India,25.671,2014,India,3048790
+India,25.389,2012,India,2814000
+India,24.937,2010,India,2564130
+India,24.858,2016,India,3103110
+India,24.599,2018,India,3374990
+India,24.304,2017,India,3229920
+India,24.124,2015,India,3063650
+India,23.728,2011,India,2671200
+India,23.507,2013,India,2875980
+India,,2021,India,
+China,8.131,2018,China,12355240
+China,7.973,2013,China,11854530
+China,7.957,2016,China,11857180
+China,7.944,2011,China,11074550
+China,7.862,2010,China,10203820
+China,7.79,2012,China,11399830
+China,7.742,2019,China,
+China,7.581,2014,China,11865310
+China,7.552,2017,China,12058050
+China,7.392,2015,China,11859290
+China,,2021,China,
