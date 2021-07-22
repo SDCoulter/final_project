@@ -108,3 +108,4 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 * 21-07-07 - After class discussion gave us a more concrete goal, we will data collect and reconvene after Thursday's class.
 
 Link to Google Doc (https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit) 
+Link to Emissions Graph from Tableau Public (https://public.tableau.com/app/profile/suleiman.barekzai/viz/Top5CountrieswithHighestEmissions/HighestEmissionsbyCountry?publish=yes)
