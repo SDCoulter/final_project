@@ -85,6 +85,8 @@ This dataset was taken from Kaggle and can be found by [clicking here](https://w
 
 Using the JavaScript tools mentioned above along with data wrangling, we will produce visualizations detailing the variables we found and plot them on maps. This will give us a way to look for correlation amongst the independent variables, while also allowing a user to find interesting information of their own. We will also include the target variables to see if we can visually show our overarching data story. These maps, along with any required graphs will be contained on an interactive web page for all to use.
 
+[Google Slides Presentation](https://docs.google.com/presentation/d/16L31giLhW9ze0KgWcnrd5dRoYOU0Yt9biegWROOU-Q4/edit?usp=sharing)
+
 ## Database
 
 After cleaning the datasets with Python we imported them into our designed PostgreSQL database in pgAdmin. To do this we created an ERD (shown below) and a schema to describe the database setup.
