@@ -151,6 +151,19 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 * https://www.kaggle.com/natashalondon/climate-change-where-we-are-and-what-we-can-do?select=CO2+emissions+by+energy+source+World+1990-2017+-+Africa.csv
 * https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
 
+## Link to Dashboard Story
+[Link to Dashboard Storyboard on Google Slides](https://docs.google.com/presentation/d/1GU2uN5hGSZcJhtLaCoZDoFTNrHmEsVjjUldqkSYuPU0/edit#slide=id.p).
+
+## Tableau Links
+[Tableau Link 1](https://public.tableau.com/app/profile/akinsola.salami/viz/UpdatedClimateandWellBeing/Sheet5).
+
+[Tableau Link 2](https://public.tableau.com/app/profile/jeffrey.au7418/viz/FinalProjectmock/ChangesinPopulation2010-2018?publish=yes).
+
+[Tableau Link 3](https://public.tableau.com/app/profile/akinsola.salami/viz/ClimateandWellBeing/PopulationofEachCountry).
+
+[Tableau Link 4](https://public.tableau.com/app/profile/suleiman.barekzai/viz/Top5CountrieswithHighestEmissions/HighestEmissionsbyCountry?publish=yes).
+
+
 ## Project Commentary
 
 * 21-07-04 - UoT Final Project Repo - Shaun Coulter, Akinsola Salami, Jeffrey Au, Najeeb Amlani, and Suleiman Barekzai.
