@@ -163,6 +163,8 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 
 [Tableau Link 4](https://public.tableau.com/app/profile/suleiman.barekzai/viz/Top5CountrieswithHighestEmissions/HighestEmissionsbyCountry?publish=yes).
 
+[Tableau Link 5](https://public.tableau.com/app/profile/najeeb6870/viz/FinalProjectVisualizations-Najeeb/TotalEmissions?publish=yes).
+
 
 ## Project Commentary
 
