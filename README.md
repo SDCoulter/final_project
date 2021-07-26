@@ -10,9 +10,9 @@ https://public.tableau.com/app/profile/najeeb6870/viz/FinalProjectVisualizations
 
 The above visualizations show a slight correlation when it comes to per capita emissions, where all countries lower on the life ladder (less than five) have relatively lower emissions per capita and all of the countires that do have relatively high emissions/capita are also higher on the life ladder (greater than 5). 
 
-Total emissions seem to be skewed by population. 
+Total emissions might be skewed by population in some cases.
 
 Hypotheses:
 
 1. Countries higher up on the life ladder are more developed, giving individuals more opportunity to conduct activities that create greenhouse gas emissions (e.g. more individuals can afford cars).
-2. Large populations emit large numbers of greenhouse gases, regardless of how developed the country is.
+2. Large populations emit large numbers of greenhouse gases, even if undeveloped.
