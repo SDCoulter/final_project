@@ -3,6 +3,7 @@ resources/
 other/
 be_text/
 be_csv/
+#for_main/
 
 # Add API key.
 config.py
@@ -20,6 +21,8 @@ group_logic.js
 17_average_global_happiness.ipynb
 18_data_to_json.ipynb
 group_logic_temp.js
+ig-*
+Untitled*
 
 # Machine Learning Files
 seaborn_ignore.ipynb

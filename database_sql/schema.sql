@@ -26,6 +26,20 @@ CREATE TABLE main_ds_pk (
 	PRIMARY KEY (id)
 );
 
+-- MAIN DATASET FOR PER CAPITA COLUMNS --
+CREATE TABLE main_pcapita (
+	"ID" INT NOT NULL,
+	"Country" VARCHAR,
+	"Year" INT,
+	"Life Ladder" FLOAT,
+	"Temperature" FLOAT,
+	"Clean Water" FLOAT,
+	"PM2.5" FLOAT,
+	"pc Greenhouse Gas Emissions" FLOAT,
+	"pc CO2 Emissions" FLOAT,
+	PRIMARY KEY ("ID")
+);
+
 -- TABLES FOR COUNTRY-YEAR INDEXES --
 CREATE TABLE cy_clean_water (
   country VARCHAR NOT NULL,
