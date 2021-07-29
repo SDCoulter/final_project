@@ -29,13 +29,6 @@ We currently plan to do our analysis with the use of the following tools (more t
 
 We may use the following tools - ideas are still being investigated.
 
-* Web Development Tools (HTML/CSS)
-* **JavaScript**
-  * Mapbox
-  * Leaflet
-  * Plotly
-  * D3
-
 ## Folder Structure Detailed
 
 * **Dataset** - our current main datasets, the standard one, and one that has been corrected by the population of the country (per capita).
@@ -83,7 +76,7 @@ This dataset was taken from Kaggle and can be found by [clicking here](https://w
 
 ## Presentation and Visualizations
 
-Using the JavaScript tools mentioned above along with data wrangling, we will produce visualizations detailing the variables we found and plot them on maps. This will give us a way to look for correlation amongst the independent variables, while also allowing a user to find interesting information of their own. We will also include the target variables to see if we can visually show our overarching data story. These maps, along with any required graphs will be contained on an interactive web page for all to use.
+Using Tableau tools along with data wrangling, we will produce visualizations detailing the variables we found and plot them on maps. This will give us a way to look for correlation amongst the independent variables, while also allowing a user to find interesting information of their own. We will also include the target variables to see if we can visually show our overarching data story. These maps, along with any required graphs will be contained on an interactive dashboard for all to use.
 
 [Google Slides Presentation](https://docs.google.com/presentation/d/16L31giLhW9ze0KgWcnrd5dRoYOU0Yt9biegWROOU-Q4/edit?usp=sharing)
 
@@ -140,17 +133,18 @@ Below is a list describing in detail the makeup of the `notebooks/machine_learni
 
 ## Data Sources
 
-***More to be added later when data wrangling is completed.***
+Our complete list of datasources are:
 
-This is an unordered and unfinished list, and at this stage does not necessarily mean we will be using the data.
-
-* https://www.iqair.com/air-pollution-data-api
 * https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
 * https://www.kaggle.com/adityakadiwal/water-potability
 * https://www.kaggle.com/sevgisarac/temperature-change
 * https://www.kaggle.com/natashalondon/climate-change-where-we-are-and-what-we-can-do?select=CO2+emissions+by+energy+source+World+1990-2017+-+Africa.csv
 * https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
 * https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE
+* http://berkeleyearth.lbl.gov/country-list/
+* https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+* https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)
+* https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-at-least-basic-drinking-water-services-(-)
 
 ## Link to Dashboard Story
 [Link to Dashboard Storyboard on Google Slides](https://docs.google.com/presentation/d/1GU2uN5hGSZcJhtLaCoZDoFTNrHmEsVjjUldqkSYuPU0/edit#slide=id.p).
@@ -174,5 +168,6 @@ This is an unordered and unfinished list, and at this stage does not necessarily
 * 21-07-07 - After class discussion gave us a more concrete goal, we will data collect and reconvene after Thursday's class.
 * 21-07-11 - Discussion before Segment 1 submission, organized file structure for future merges.
 * 21-07-22 - Added new machine learning files, as well as SQL database information - need to add further visualizations and Tableau links.
+* 21-07-29 - Finalized README, combined different Tableau sheets, planned for presentation.
 
 Link to [Google Doc](https://docs.google.com/document/d/1EW4t8kRGlLc9MQogQzHVajHzpL0GueukDG4ZbumZaHs/edit).
