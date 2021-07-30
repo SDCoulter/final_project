@@ -133,7 +133,7 @@ Below is a list describing in detail the makeup of the `notebooks/machine_learni
 
 ## Data Sources
 
-Our complete list of datasources are:
+Our complete list of data sources are:
 
 * https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
 * https://www.kaggle.com/adityakadiwal/water-potability
