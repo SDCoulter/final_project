@@ -149,17 +149,8 @@ Our complete list of data sources are:
 ## Link to Dashboard Story
 [Link to Dashboard Storyboard on Google Slides](https://docs.google.com/presentation/d/1GU2uN5hGSZcJhtLaCoZDoFTNrHmEsVjjUldqkSYuPU0/edit#slide=id.p).
 
-## Tableau Links
-[Tableau Link 1](https://public.tableau.com/app/profile/akinsola.salami/viz/UpdatedClimateandWellBeing/Sheet5).
-
-[Tableau Link 2](https://public.tableau.com/app/profile/jeffrey.au7418/viz/FinalProjectmock/ChangesinPopulation2010-2018?publish=yes).
-
-[Tableau Link 3](https://public.tableau.com/app/profile/akinsola.salami/viz/ClimateandWellBeing/PopulationofEachCountry).
-
-[Tableau Link 4](https://public.tableau.com/app/profile/suleiman.barekzai/viz/Top5CountrieswithHighestEmissions/HighestEmissionsbyCountry?publish=yes).
-
-[Tableau Link 5](https://public.tableau.com/app/profile/najeeb6870/viz/FinalProjectVisualizations-Najeeb/Dashboard1?publish=yes).
-
+## Dashboard
+[Group 4 - Final Dashboard for Presentation](https://public.tableau.com/app/profile/akinsola.salami/viz/Group4-FinalProject-ClimateandHappiness/Story1?publish=yes).
 
 ## Project Commentary
 
