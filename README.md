@@ -24,4 +24,3 @@ Conclusions:
     * Sources:
       1. https://www.wri.org/insights/4-charts-explain-greenhouse-gas-emissions-countries-and-sectors
       2. https://www.brookings.edu/research/greenhouse-gas-emissions/
-    * 
