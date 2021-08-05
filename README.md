@@ -12,12 +12,12 @@ The above visualizations show a slight correlation when it comes to per capita e
 
 Total emissions might be skewed by population in some cases.
 
-Hypotheses:
+### Hypotheses:
 
 1. Countries higher up on the life ladder are more developed, giving individuals more opportunity to conduct activities that create greenhouse gas emissions (e.g. more individuals can afford cars).
 2. Large populations emit large numbers of greenhouse gases, even if undeveloped.
 
-Conclusions:
+### Conclusions:
 1. As the data set shows, all countries lower on the life ladder (less than five) have relatively lower emissions per capita and all of the countires that do have relatively high emissions/capita are also higher on the life ladder (greater than 5), while countries with high total emissions also have some of the largest pouplations. There could be a number of reasons for this:
     * Many greenhouse gases appear to be produced from the energy sector, which includes transportation, electricity and heat, buildings, manufacturing and construction, fugitive emissions and other fuel combustion. The regions that are high in total greenhouse gases (China, USA, EU, India, Russia, etc.) have the highest electricity/heat emissions as well. Some of these countries are low on the life ladder while some are high, and thus it is difficult to draw a correlation from this between life ladder index and GG emissions. (Source A)
     * Two of the highest toal GG emitters also have the two highest populations of any country, China and India. Both of these are also developing countries. This could be due to the fact that "the relocation of carbon-intensive industries from participating to nonparticipating countries is one possible channel of leakage, an unintended consequence of the Kyoto agreement," and thus are increasing the most rapidly. Both these countries are relatively low on the life ladder as well, providing evidence to the correlation drawn of lower life ladder but high total emissions in developing countries. (Source: A)
