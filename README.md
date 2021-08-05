@@ -26,11 +26,11 @@ Conclusions:
       1. https://www.wri.org/insights/4-charts-explain-greenhouse-gas-emissions-countries-and-sectors
       2. https://www.brookings.edu/research/greenhouse-gas-emissions/
 ## Presentation Notes
-•	The graphs on the left-hand side visualize total gg emissions and gg emissions/capita on maps, along with the corresponding country’s Life Ladder stat and population. The darker the country, the more emissions. 
-•	The right-hand side shows the distribution of these same stats in scatter plots.
-•	As you might be able to see, there is an interesting disparity between total emissions and emissions per capita.
-•	For example, the US, China, and India, which all have large populations, are the highest emitters for total GGs, but only the US remains high in emissions/capita. 
-•	We can also see many countries have high emissions/capita, but do not have high total emissions, like Australia, UAE, Canada
-•	There could be many possible explanations for these patterns. According to Brookings EDU some countries with high emissions/capita have been slow or resistant to implementing the Kyoto Protocol. And according to the World Resources Institute, many countries relocate their carbon-intensive industries to developing nations. Along with population, this could explain why China and India have high total emissions, but low emissions/capita.
-•	Finally, the scatter plots show a pattern, where all of the countries that have high emissions/capita are above 5 on the life ladder, and all countries that are below 5 on the life ladder, have relatively low emissions/capita. As a result, there seems to be a correlation, where countries lower on the life ladder have lower emissions/capita, and countries with the highest emissions/capita are all, relatively high, on the life ladder.
+*	The graphs on the left-hand side visualize total gg emissions and gg emissions/capita on maps, along with the corresponding country’s Life Ladder stat and population. The darker the country, the more emissions. 
+*	The right-hand side shows the distribution of these same stats in scatter plots.
+*	As you might be able to see, there is an interesting disparity between total emissions and emissions per capita.
+*	For example, the US, China, and India, which all have large populations, are the highest emitters for total GGs, but only the US remains high in emissions/capita. 
+*	We can also see many countries have high emissions/capita, but do not have high total emissions, like Australia, UAE, Canada
+*	There could be many possible explanations for these patterns. According to Brookings EDU some countries with high emissions/capita have been slow or resistant to implementing the Kyoto Protocol. And according to the World Resources Institute, many countries relocate their carbon-intensive industries to developing nations. Along with population, this could explain why China and India have high total emissions, but low emissions/capita.
+*	Finally, the scatter plots show a pattern, where all of the countries that have high emissions/capita are above 5 on the life ladder, and all countries that are below 5 on the life ladder, have relatively low emissions/capita. As a result, there seems to be a correlation, where countries lower on the life ladder have lower emissions/capita, and countries with the highest emissions/capita are all, relatively high, on the life ladder.
 
