@@ -150,7 +150,7 @@ Our complete list of data sources are:
 [Link to Dashboard Storyboard on Google Slides](https://docs.google.com/presentation/d/1GU2uN5hGSZcJhtLaCoZDoFTNrHmEsVjjUldqkSYuPU0/edit#slide=id.p).
 
 ## Dashboard (Tableau Link)
-[Group 4 - Final Dashboard for Presentation](https://public.tableau.com/app/profile/akinsola.salami/viz/Group4-FinalProject-ClimateandHappiness/Story1?publish=yes).
+[Group 4 - Final Dashboard for Presentation](https://public.tableau.com/app/profile/akinsola.salami/viz/FINAL-Group4-FinalPresentation/FINALSTORY?publish=yes).
 
 ## Project Commentary
 
